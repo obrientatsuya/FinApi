@@ -12,7 +12,15 @@ Abra seu terminal no diretorio e digite:
 É recomendado o uso do Insomnia para testes da API.
 
 
-### Requisitos
+
+
+
+
+
+---
+
+
+### Requisitos de criação
 
 - [x] Deve ser possível criar uma conta.
 - [x] Deve ser possível buscar o extrato bancário do cliente.
